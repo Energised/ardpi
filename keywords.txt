@@ -1,0 +1,7 @@
+ardpi	KEYWORD1
+motors	KEYWORD1
+forwards	KEYWORD2
+backwards	KEYWORD2
+left	KEYWORD2
+right	KEYWORD2
+stop	KEYWORD2
